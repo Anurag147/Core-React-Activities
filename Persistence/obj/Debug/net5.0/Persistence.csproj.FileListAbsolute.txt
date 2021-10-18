@@ -1,0 +1,14 @@
+E:\Anurag_Study\core-react\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\Anurag_Study\core-react\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\Anurag_Study\core-react\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\Anurag_Study\core-react\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\Anurag_Study\core-react\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+E:\Anurag_Study\core-react\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\Anurag_Study\core-react\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
